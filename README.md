@@ -61,6 +61,5 @@ Web export must be served over HTTP(S), not opened as a local HTML file.
 
 ## Branch workflow
 
-Game changes are proposed on `feat/coffee-run`, with a draft pull request targeting `boombot`.
-`main` contains only the repository bootstrap until you manually merge your chosen branches.
-To play before merging, download/check out `feat/coffee-run` rather than `main`.
+The complete game is available directly on `main`. Download or check out `main` to play.
+The original draft pull request is closed; the `feat/coffee-run` and `boombot` branches are retained.
